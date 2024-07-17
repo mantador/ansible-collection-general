@@ -15,3 +15,5 @@ android_studio_allusers: true
 
 install_sdk: true
 install_studio: false
+
+openjdk_version: 11

@@ -35,4 +35,4 @@
       apt:
         state: present
         pkg:
-          - openjdk-11-jdk
+          - openjdk-{{ openjdk_version }}-jdk
